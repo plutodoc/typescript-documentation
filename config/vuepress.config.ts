@@ -95,6 +95,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/handbook/intro.md',
+                '/documentation/handbook/basic-types.md',
               ],
             },
           ],
