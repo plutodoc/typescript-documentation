@@ -90,6 +90,13 @@ export default defineUserConfig({
                 '/documentation/get-started/typescript-tooling-in-5-minutes.md',
               ],
             },
+            {
+              text: '2 Handbook',
+              collapsible: true,
+              children: [
+                '/documentation/handbook/intro.md',
+              ],
+            },
           ],
         },
       },
