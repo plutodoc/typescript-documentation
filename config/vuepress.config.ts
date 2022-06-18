@@ -43,6 +43,7 @@ export default defineUserConfig({
                 '/documentation/get-started/typescript-from-scratch.md',
                 '/documentation/get-started/typescript-in-5-minutes.md',
                 '/documentation/get-started/typescript-in-5-minutes-oop.md',
+                '/documentation/get-started/typescript-in-5-minutes-func.md',
               ],
             },
           ],
