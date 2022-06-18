@@ -96,6 +96,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/handbook/intro.md',
                 '/documentation/handbook/basic-types.md',
+                '/documentation/handbook/everyday-types.md',
               ],
             },
           ],
