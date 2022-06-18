@@ -41,6 +41,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/get-started/typescript-from-scratch.md',
+                '/documentation/get-started/typescript-in-5-minutes.md',
               ],
             },
           ],
