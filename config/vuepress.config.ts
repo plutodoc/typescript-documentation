@@ -99,6 +99,7 @@ export default defineUserConfig({
                 '/documentation/handbook/everyday-types.md',
                 '/documentation/handbook/narrowing.md',
                 '/documentation/handbook/functions.md',
+                '/documentation/handbook/objects.md',
               ],
             },
           ],
