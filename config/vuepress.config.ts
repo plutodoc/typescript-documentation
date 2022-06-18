@@ -44,6 +44,7 @@ export default defineUserConfig({
                 '/documentation/get-started/typescript-in-5-minutes.md',
                 '/documentation/get-started/typescript-in-5-minutes-oop.md',
                 '/documentation/get-started/typescript-in-5-minutes-func.md',
+                '/documentation/get-started/typescript-tooling-in-5-minutes.md',
               ],
             },
           ],
