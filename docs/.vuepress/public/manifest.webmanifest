@@ -1,0 +1,21 @@
+{
+    "name": "TypeScript Documentation",
+    "short_name": "TypeScript Doc",
+    "description": "JavaScript with syntax for types",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#126CBB",
+    "theme_color": "#126CBB",
+    "icons": [
+        {
+            "src": "/images/pwa/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/pwa/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
