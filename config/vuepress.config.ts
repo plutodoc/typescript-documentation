@@ -100,6 +100,7 @@ export default defineUserConfig({
                 '/documentation/handbook/narrowing.md',
                 '/documentation/handbook/functions.md',
                 '/documentation/handbook/objects.md',
+                '/documentation/handbook/types-from-types.md',
               ],
             },
           ],
