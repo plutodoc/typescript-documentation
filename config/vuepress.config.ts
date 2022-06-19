@@ -130,6 +130,7 @@ export default defineUserConfig({
                 '/documentation/reference/namespaces-and-modules.md',
                 '/documentation/reference/symbols.md',
                 '/documentation/reference/triple-slash-directives.md',
+                '/documentation/reference/type-compatibility.md',
               ],
             },
           ],
