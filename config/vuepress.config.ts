@@ -117,6 +117,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/reference/utility-types.md',
+                '/documentation/reference/cheatsheets.md',
               ],
             },
           ],
