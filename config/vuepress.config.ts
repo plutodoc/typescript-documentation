@@ -108,6 +108,7 @@ export default defineUserConfig({
                 '/documentation/handbook/conditional-types.md',
                 '/documentation/handbook/mapped-types.md',
                 '/documentation/handbook/template-literal-types.md',
+                '/documentation/handbook/classes.md',
               ],
             },
           ],
