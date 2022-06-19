@@ -106,6 +106,7 @@ export default defineUserConfig({
                 '/documentation/handbook/typeof-types.md',
                 '/documentation/handbook/indexed-access-types.md',
                 '/documentation/handbook/conditional-types.md',
+                '/documentation/handbook/mapped-types.md',
               ],
             },
           ],
