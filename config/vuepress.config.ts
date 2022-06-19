@@ -101,6 +101,7 @@ export default defineUserConfig({
                 '/documentation/handbook/functions.md',
                 '/documentation/handbook/objects.md',
                 '/documentation/handbook/types-from-types.md',
+                '/documentation/handbook/generics.md',
               ],
             },
           ],
