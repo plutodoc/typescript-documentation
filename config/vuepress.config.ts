@@ -132,6 +132,7 @@ export default defineUserConfig({
                 '/documentation/reference/triple-slash-directives.md',
                 '/documentation/reference/type-compatibility.md',
                 '/documentation/reference/type-inference.md',
+                '/documentation/reference/variable-declarations.md',
               ],
             },
           ],
