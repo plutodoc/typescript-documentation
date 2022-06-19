@@ -118,6 +118,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/reference/utility-types.md',
                 '/documentation/reference/cheatsheets.md',
+                '/documentation/reference/decorators.md',
               ],
             },
           ],
