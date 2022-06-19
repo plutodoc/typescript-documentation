@@ -125,6 +125,7 @@ export default defineUserConfig({
                 '/documentation/reference/jsx.md',
                 '/documentation/reference/mixins.md',
                 '/documentation/reference/modules.md',
+                '/documentation/reference/module-resolution.md',
               ],
             },
           ],
