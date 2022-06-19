@@ -105,6 +105,7 @@ export default defineUserConfig({
                 '/documentation/handbook/keyof-types.md',
                 '/documentation/handbook/typeof-types.md',
                 '/documentation/handbook/indexed-access-types.md',
+                '/documentation/handbook/conditional-types.md',
               ],
             },
           ],
