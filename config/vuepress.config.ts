@@ -128,6 +128,7 @@ export default defineUserConfig({
                 '/documentation/reference/module-resolution.md',
                 '/documentation/reference/namespaces.md',
                 '/documentation/reference/namespaces-and-modules.md',
+                '/documentation/reference/symbols.md',
               ],
             },
           ],
