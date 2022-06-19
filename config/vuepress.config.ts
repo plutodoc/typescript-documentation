@@ -109,6 +109,7 @@ export default defineUserConfig({
                 '/documentation/handbook/mapped-types.md',
                 '/documentation/handbook/template-literal-types.md',
                 '/documentation/handbook/classes.md',
+                '/documentation/handbook/modules.md',
               ],
             },
           ],
