@@ -102,6 +102,7 @@ export default defineUserConfig({
                 '/documentation/handbook/objects.md',
                 '/documentation/handbook/types-from-types.md',
                 '/documentation/handbook/generics.md',
+                '/documentation/handbook/keyof-types.md',
               ],
             },
           ],
