@@ -120,6 +120,7 @@ export default defineUserConfig({
                 '/documentation/reference/cheatsheets.md',
                 '/documentation/reference/decorators.md',
                 '/documentation/reference/declaration-merging.md',
+                '/documentation/reference/enums.md',
               ],
             },
           ],
