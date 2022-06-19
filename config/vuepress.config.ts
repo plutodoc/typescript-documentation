@@ -112,6 +112,13 @@ export default defineUserConfig({
                 '/documentation/handbook/modules.md',
               ],
             },
+            {
+              text: '3 Reference',
+              collapsible: true,
+              children: [
+                '/documentation/reference/utility-types.md',
+              ],
+            },
           ],
         },
       },
