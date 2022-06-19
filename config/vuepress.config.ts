@@ -122,6 +122,7 @@ export default defineUserConfig({
                 '/documentation/reference/declaration-merging.md',
                 '/documentation/reference/enums.md',
                 '/documentation/reference/iterators-and-generators.md',
+                '/documentation/reference/jsx.md',
               ],
             },
           ],
