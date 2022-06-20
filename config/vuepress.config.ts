@@ -154,6 +154,13 @@ export default defineUserConfig({
                 '/documentation/declaration-files/consumption.md',
               ],
             },
+            {
+              text: '5 JavaScript',
+              collapsible: true,
+              children: [
+                '/documentation/javascript/intro-to-js-ts.md',
+              ],
+            },
           ],
         },
       },
