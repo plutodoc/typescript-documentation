@@ -144,6 +144,7 @@ export default defineUserConfig({
                 '/documentation/declaration-files/library-structures.md',
                 '/documentation/declaration-files/module-d-ts.md',
                 '/documentation/declaration-files/module-plugin-d-ts.md',
+                '/documentation/declaration-files/module-class-d-ts.md',
               ],
             },
           ],
