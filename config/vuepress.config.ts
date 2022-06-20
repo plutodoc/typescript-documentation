@@ -142,6 +142,7 @@ export default defineUserConfig({
                 '/documentation/declaration-files/introduction.md',
                 '/documentation/declaration-files/by-example.md',
                 '/documentation/declaration-files/library-structures.md',
+                '/documentation/declaration-files/module-d-ts.md',
               ],
             },
           ],
