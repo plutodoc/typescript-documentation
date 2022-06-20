@@ -140,6 +140,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/declaration-files/introduction.md',
+                '/documentation/declaration-files/by-example.md',
               ],
             },
           ],
