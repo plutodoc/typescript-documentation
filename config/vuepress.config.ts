@@ -164,6 +164,13 @@ export default defineUserConfig({
                 '/documentation/javascript/dts-from-js.md',
               ],
             },
+            {
+              text: '6 Project Configuration',
+              collapsible: true,
+              children: [
+                '/documentation/project-config/tsconfig-json.md',
+              ],
+            },
           ],
         },
       },
