@@ -160,6 +160,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/javascript/intro-to-js-ts.md',
                 '/documentation/javascript/type-checking-javascript-files.md',
+                '/documentation/javascript/jsdoc-supported-types.md',
               ],
             },
           ],
