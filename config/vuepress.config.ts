@@ -159,6 +159,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/javascript/intro-to-js-ts.md',
+                '/documentation/javascript/type-checking-javascript-files.md',
               ],
             },
           ],
