@@ -151,6 +151,7 @@ export default defineUserConfig({
                 '/documentation/declaration-files/do-s-and-don-ts.md',
                 '/documentation/declaration-files/deep-dive.md',
                 '/documentation/declaration-files/publishing.md',
+                '/documentation/declaration-files/consumption.md',
               ],
             },
           ],
