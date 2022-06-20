@@ -148,6 +148,7 @@ export default defineUserConfig({
                 '/documentation/declaration-files/module-function-d-ts.md',
                 '/documentation/declaration-files/global-d-ts.md',
                 '/documentation/declaration-files/global-modifying-module-d-ts.md',
+                '/documentation/declaration-files/do-s-and-don-ts.md',
               ],
             },
           ],
