@@ -169,6 +169,7 @@ export default defineUserConfig({
               collapsible: true,
               children: [
                 '/documentation/project-config/tsconfig-json.md',
+                '/documentation/project-config/tsconfig.md',
               ],
             },
           ],
