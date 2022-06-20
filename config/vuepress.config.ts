@@ -161,6 +161,7 @@ export default defineUserConfig({
                 '/documentation/javascript/intro-to-js-ts.md',
                 '/documentation/javascript/type-checking-javascript-files.md',
                 '/documentation/javascript/jsdoc-supported-types.md',
+                '/documentation/javascript/dts-from-js.md',
               ],
             },
           ],
