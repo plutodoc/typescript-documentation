@@ -135,6 +135,13 @@ export default defineUserConfig({
                 '/documentation/reference/variable-declarations.md',
               ],
             },
+            {
+              text: '4 Declaration Reference',
+              collapsible: true,
+              children: [
+                '/documentation/declaration-files/introduction.md',
+              ],
+            },
           ],
         },
       },
