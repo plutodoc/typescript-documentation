@@ -141,6 +141,7 @@ export default defineUserConfig({
               children: [
                 '/documentation/declaration-files/introduction.md',
                 '/documentation/declaration-files/by-example.md',
+                '/documentation/declaration-files/library-structures.md',
               ],
             },
           ],
