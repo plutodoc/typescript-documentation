@@ -146,6 +146,7 @@ export default defineUserConfig({
                 '/documentation/declaration-files/module-plugin-d-ts.md',
                 '/documentation/declaration-files/module-class-d-ts.md',
                 '/documentation/declaration-files/module-function-d-ts.md',
+                '/documentation/declaration-files/global-d-ts.md',
               ],
             },
           ],
